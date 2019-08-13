@@ -1,4 +1,4 @@
-# Ripped from Mutable Instruments dev env. Thanks Emilie !
+# Ripped from [Mutable Instruments dev](https://github.com/pichenettes/mutable-dev-environment) env. Thanks Emilie !
 
 ## Usage
 
@@ -7,7 +7,7 @@
     vagrant ssh
 ### Compilation
     make
-###Flash
+### Flash
     st-flash --reset write project.bin 0x08000000
 ### End session
     exit
