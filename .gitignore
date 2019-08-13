@@ -1,0 +1,5 @@
+.vagrant/
+code/
+man/
+
+*.code-workspace
