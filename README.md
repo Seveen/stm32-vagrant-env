@@ -1,4 +1,7 @@
-# Ripped from [Mutable Instruments dev](https://github.com/pichenettes/mutable-dev-environment) env. Thanks Emilie !
+## Acknowledgements
+
+The idea and most of the code comes from [Mutable Instruments dev](https://github.com/pichenettes/mutable-dev-environment) env. 
+Thanks Emilie !
 
 ## Usage
 
